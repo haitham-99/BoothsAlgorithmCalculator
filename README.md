@@ -1,4 +1,4 @@
-# BoothsAlgorithmCalculator
+# Booths Algorithm Calculator
 Booth algorithm gives a procedure for multiplying binary integers in signed 2’s complement representation in efficient way
 
 example :
